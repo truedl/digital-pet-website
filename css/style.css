@@ -37,7 +37,6 @@ body {
 }
 
 a {
-  transition: .4s;
   color: #fff;
   text-decoration: none;
   font-size: 24px;
@@ -46,11 +45,6 @@ a {
               1px -1px #000,
               -1px -1px #000;
   cursor: pointer;
-}
-
-a:hover {
-  transition: .4s;
-  letter-spacing: 2px;
 }
 
 .p-content {
